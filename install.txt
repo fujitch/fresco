@@ -1,0 +1,19 @@
+python3 install
+# yum install python3
+# pip3 install numpy
+# pip3 install scipy
+
+nodejs install
+# curl -sL https://rpm.nodesource.com/setup_8.x | bash -
+# yum install -y nodejs
+# npm install express
+# npm install socket.io
+# npm install pcm
+
+ffmpeg install
+# yum -y install epel-release
+# rpm -v --import http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
+# rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
+# yum -y install ffmpeg ffmpeg-devel
+
+# yum -y install autoconf automake cmake freetype-devel gcc gcc-c++ git libtool make mercurial pkgconfig zlib-devel
